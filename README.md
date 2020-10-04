@@ -19,7 +19,7 @@ Predict the number of likes received by a YouTube Video based on given features.
 #### Sample Submission
 Format for making the submission for predictions on the test set
 
-video_id: Unique id for each video in the test set
+video_id: Unique id for each video in the test set  
 likes: Predicted Number of likes received for that video
 
 
