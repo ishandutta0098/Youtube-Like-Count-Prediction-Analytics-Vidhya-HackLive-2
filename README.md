@@ -6,8 +6,20 @@ This code is a part of [Analytics Vidhya HackLive2](https://datahack.analyticsvi
 Predict the number of likes received by a YouTube Video based on given features.
 
 ### Data Description
-#### Train Data
+#### Train Data 
 ![trainData](https://github.com/ishandutta0098/youtubeLikeCountPrediction/blob/main/Images/train.png)
+
+- Train Data Shape = (26061, 12)
 
 #### Test Data
 ![testData](https://github.com/ishandutta0098/youtubeLikeCountPrediction/blob/main/Images/test.png)
+
+- Test Data Shape = (11170, 11)
+
+#### Sample Submission
+Format for making the submission for predictions on the test set
+
+video_id: Unique id for each video in the test set
+likes: Predicted Number of likes received for that video
+
+
