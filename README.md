@@ -1,2 +1,3 @@
-# Youtube-Like-Count-Prediction-Analytics-Vidhya-HackLive-2
-Solution to Youtube Like Count Prediction Analytics Vidhya HackLive 2
+# Youtube Like Count Prediction
+
+This code is a part of [Analytics Vidhya HackLive2](https://datahack.analyticsvidhya.com/contest/hacklive-2-guided-community-hackathon/#LeaderBoard)
